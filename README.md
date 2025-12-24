@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Herysson Levi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desenvolvedor+Back+End👨🏽‍💻;Tecnologia🌐" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desenvolvedor+de+Software👨🏽‍💻;Tecnologia🌐" />
 </p>
 
 ---
